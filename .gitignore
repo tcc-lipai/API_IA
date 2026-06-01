@@ -1,0 +1,26 @@
+# --- Arquivos Temporários do seu Projeto ---
+temp_*.wav
+temp_*.mp3
+gravacao.wav
+
+# --- Ambientes Virtuais ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Caches do Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.cache/
+
+# --- Arquivos do Sistema Operacional ---
+Thumbs.db
+.DS_Store
+
+# --- Configurações de IDEs (Opcional, mas recomendado) ---
+.vscode/
+.idea/
